@@ -1,0 +1,4 @@
+name: ignite-hadoop
+summary: Interface for relating Apache Ignite-Hadoop to Apache Hadoop slave
+version: 1
+maintainer: "Big Data Team <bigdata@lists.ubuntu.com>"
